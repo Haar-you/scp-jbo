@@ -1,5 +1,5 @@
 # SCP articles translated into Lojban
-
+[https://haar-you.github.io/scp-jbo/](https://haar-you.github.io/scp-jbo/)
 
 # License & Credit
 このレポジトリにある翻訳された文章は、[SCP Foundation](http://www.scp-wiki.net/)のコンテンツに基づいています。<br>
